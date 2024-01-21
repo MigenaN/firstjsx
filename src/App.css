@@ -1,0 +1,16 @@
+.app-container {
+  align-items: start;
+}
+
+.app-header {
+  background-color: white;
+  padding: 20px;
+  color: black;
+}
+
+.app-main {
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+
